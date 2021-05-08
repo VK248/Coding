@@ -1,0 +1,37 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#PSG-Barca{
+font-size:20px;
+}
+#Ind-Eng{
+font-size:20px;
+}
+.Common{
+font-size:20px;
+}
+body{
+background-color: darkmagenta;
+color:white;
+}
+#Place{
+font-size:28px;
+}
+#TGOI{
+height:800;
+width:1500;
+}
